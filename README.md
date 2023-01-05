@@ -1,1 +1,2 @@
-# VTVF_prediction
+# Prediction of VTVF
+Current standard of prediction of sudden cardiac death (SDC) is based on tracking levels of ejection fraction (EF). If the value is below 30%, IntraCardiac Defibrillator must be placed. The goal of this work is to analyze whether there are better predictors, based on the medical charts from various patients, which could predict Ventricular Tachycardia and Fibrillation (VTVF) which precedes SCD.
